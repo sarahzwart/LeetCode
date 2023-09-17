@@ -17,6 +17,7 @@ public class BuyAndSell {
                 max++;
             }
        }
+       return profit;
     }
 
     public static void main (String [] args){
