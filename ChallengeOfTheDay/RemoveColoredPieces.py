@@ -1,3 +1,4 @@
+# This is a test to see of git works now
 class Solution:
     def winnerOfGame(colors: str) -> bool:
         n =len(colors)
